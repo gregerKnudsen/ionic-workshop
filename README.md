@@ -372,11 +372,23 @@ git stash && git checkout Step-four_Saving-data-permanently-to-storage
 ```
 
 * Register for [Ionic View](https://apps.ionic.io/login)
-* Download [Ionic View](http://view.ionic.io/)
+* Download [Ionic View](http://view.ionic.io/) from App Store or Google Play on your mobile device.
 * Deploy your app to Ionic View:
-* ```ionic serve```
+* Preferably use the windows command-line.
+* Navigate to the root of the project, be inside the folder "ionic-todo"
+* ```ionic login```
+* ```ionic link```
+* ```ionic login```
+* Select Create new App
+* From the web-site, click "Create App"
+* Give the application a name, i.e "ToDoUka"
+* Go back to Terminal:
+* ```ionic link```
+* Select the newly created app, "ToDoUka"
 * ```ionic upload```
-
+* Open Ionic View app on mobile and login.
+* Find App.
+* Click "View App".
 
 
 
