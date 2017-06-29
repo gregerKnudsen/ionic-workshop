@@ -341,7 +341,7 @@ Data
 ```
 7. Open the file “home.ts” and add the following import statement: 
 ```ts
-import { Data } from '../../providers/data';
+import { Data } from '../../providers/data/data';
 ```
 8. In the same file, add the following to the constructor: 
 ```ts
