@@ -23,7 +23,7 @@ Register at [Github](https://github.com/join):
 
 ### Clone the project
 
-1. Open cmd or git bash.
+1. Open Command Prompt. ```Windows Button``` ```Command Prompt```
 2. Navigate to “C:\Users<your.accenture.id>\Desktop\Repos” or desired location.```cd Repos```
 3. Clone the repository by typing: ```git clone https://github.com/gregerKnudsen/ionic-workshop.git```
 4. Navigate to repository folder by typing the command:```cd ionic-workshop```
