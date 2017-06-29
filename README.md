@@ -59,7 +59,7 @@ Install [Visual Studio Code](https://nodejs.org/en/) or your favorite IDE
 ## Creating a simple To-Do app
 ### Step 1: Creating the home page
 
-1. Generate a new project with a blank template by typing: ```ionic start ionic-todo blank --v2```
+1. Generate a new project with a blank template by typing: ```ionic start ionic-todo blank --type ionic-angular```
 2. Open Visual Studio Code. Tip: write the command ```code .``` If this works, skip 3-5.
 3. Click “File”
 4. Click “Open folder”
