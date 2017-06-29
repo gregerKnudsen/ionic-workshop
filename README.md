@@ -272,7 +272,7 @@ import { ItemDetailPage } from '../pages/item-detail/item-detail';
 5. Open “item-detail.ts” and add the following fields above the constructor:
 ```ts
  title;
- description”;
+ description;
 ```
 6. In the same file, replace the function body of “ionViewDidLoad()” with the following:
 ```ts
@@ -329,7 +329,7 @@ export class Data {
 4. Open the file “app.module.ts” and add the following import statements:
 ```ts
 import { IonicStorageModule } from '@ionic/storage';
-import { Data } from '../providers/data';
+import { Data } from '../providers/data/data';
 ```
 5. In the same file, add the following to the imports array:
 ```ts
