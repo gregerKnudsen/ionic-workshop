@@ -120,7 +120,7 @@ viewItem(){
 Stash local changes and checkout branch Step-one_Creating-the-home-page, run the following command in terminal:
 
 ```
-git stash && git checkout Step-one_Creating-the-home-page
+git stash && git checkout -f Step-one_Creating-the-home-page
 ```
 
 1. Create the page for adding items to the ToDo list by typing the following commands in your Terminal: 
@@ -242,7 +242,7 @@ We want to be able to click on an item in the list and see its description. This
 Stash local changes and checkout branch Step-two_Adding-items, run the following command in terminal:
 
 ```
-git stash && git checkout Step-two_Adding-items
+git stash && git checkout -f Step-two_Adding-items
 ```
 
 1. Create an item-detail page by typing the following command: ```ionic g page ItemDetail```
@@ -298,7 +298,7 @@ Now, the items in the todo-list will be cleared every time the application is cl
 Stash local changes and checkout branch Step-three_Viewing-items, run the following command in terminal:
 
 ```
-git stash && git checkout Step-three_Viewing-items
+git stash && git checkout -f Step-three_Viewing-items
 ```
 
 1. Install storage plugin by typing the following command in the terminal:
@@ -368,7 +368,7 @@ Now we would like to see the real application on our own phone!
 Stash local changes and checkout branch Step-four_Saving-data-permanently-to-storage, run the following command in terminal:
 
 ```
-git stash && git checkout Step-four_Saving-data-permanently-to-storage
+git stash && git checkout -f Step-four_Saving-data-permanently-to-storage
 ```
 
 * Register for [Ionic View](https://apps.ionic.io/login)
