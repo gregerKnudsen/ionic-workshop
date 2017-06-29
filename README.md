@@ -328,7 +328,7 @@ export class Data {
 ```
 4. Open the file “app.module.ts” and add the following import statements:
 ```ts
-import { IonicStorageModule } from '@ionic/Storage';
+import { IonicStorageModule } from '@ionic/storage';
 import { Data } from '../providers/data';
 ```
 5. In the same file, add the following to the imports array:
